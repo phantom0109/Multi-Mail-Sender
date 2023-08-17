@@ -16,21 +16,6 @@
 
 ***
 
-Show full video on YouTube : https://youtu.be/tH0fLfXwNnU
-
-Show demo video on Instagram : https://www.instagram.com/p/CMKAQywgZ52
-
-Contact with me to get the Password of Zip file on :
-
- Telegram : https://t.me/erfan4lx12
-  
- Email : erfan4lx@gmail.com
-
-🆔My YouTube Channel : https://youtube.com/erfan4lx
-
-🆔My Telegram Channel : https://t.me/erfan4lx_marketing
-
-🆔My Instagram Page : https://www.instagram.com/_erfan4lx_/
 
 <p align="center">
   Follow Me On
