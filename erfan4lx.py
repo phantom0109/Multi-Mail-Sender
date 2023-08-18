@@ -56,12 +56,12 @@ counter = 0
 
 count = input("Counter: ")
 
-# for i in f5:
+for i in f5:
 
-#     if int(counter) == int(count):
-#         c += 1
-#     main(f1[int(c)],f2[int(c)],f3[int(c)],f4[int(c)],i,f6,f7)
-#     counter += 1
+    if int(counter) == int(count):
+        c += 1
+    main(f1[int(c)],f2[int(c)],f3[int(c)],f4[int(c)],i,f6,f7)
+    counter += 1
 
 
 # for i in f5:
